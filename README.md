@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MirasMustimov
-- 👀 I’m interested in Laravel, VueJs & UI Desig
+- 👀 I’m interested in Laravel, VueJs & UI Design
 
 <!---
 MirasMustimov/MirasMustimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
