@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MirasMustimov
 - 👀 I’m interested in Laravel, VueJs & UI Design
 
-My Teck Stack
+# My Teck Stack <br>
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
 
