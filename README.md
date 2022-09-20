@@ -1,6 +1,8 @@
-# <h7 style="text-align: center;">Hi, I’m @MirasMustimov 👋<h7>
+# Hi, I’m MirasMustimov!
+
 
 - 👀 I’m interested in Laravel, VueJs & UI Design
+
 
 ## My Teck Stack <br>
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
