@@ -1,7 +1,11 @@
 # <p align="center">Hi, I’m Miras!</p>
 
-- 👀 I’m interested in Laravel, VueJs & UI Design
-- ⛰️ I live in Almaty, Kazakhstan
+
+- Hi, I am Mitas
+- I live in Almaty, Kazakhstan
+- I’m interested in Laravel, VueJs & UI Design
+- 5 years expirience as a full stack developer (Laravel/PHP + VueJS + TailwindCSS)
+
 
 
 ## My Teck Stack <br>
