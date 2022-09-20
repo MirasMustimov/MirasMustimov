@@ -1,10 +1,9 @@
 # <p align="center">Hi, I’m Miras!</p>
 
 
-- Hi, I am Mitas
-- I live in Almaty, Kazakhstan
-- I’m interested in Laravel, VueJs & UI Design
-- 5 years expirience as a full stack developer (Laravel/PHP + VueJS + TailwindCSS)
+- 👋 Hi, I am Miras!
+- 🌆 I live in Almaty, Kazakhstan.
+- 💼 I have 5 years experience as a full stack developer (Laravel/PHP + VueJS + TailwindCSS).
 
 
 
