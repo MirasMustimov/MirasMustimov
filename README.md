@@ -1,6 +1,5 @@
-<h7 styyle="text-align: center">👋 Hi, I’m @MirasMustimov<h7>
+# <h7 styyle="text-align: center">👋 Hi, I’m @MirasMustimov<h7>
 
-- 
 - 👀 I’m interested in Laravel, VueJs & UI Design
 
 ## My Teck Stack <br>
