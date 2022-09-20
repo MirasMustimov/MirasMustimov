@@ -1,6 +1,7 @@
-# <p align="center">Hi, I’m MirasMustimov!</p>
+# <p align="center">Hi, I’m Miras!</p>
 
 - 👀 I’m interested in Laravel, VueJs & UI Design
+- ⛰️ I live in Almaty, Kazakhstan
 
 
 ## My Teck Stack <br>
