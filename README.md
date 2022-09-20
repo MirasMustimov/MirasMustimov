@@ -18,7 +18,7 @@
 
 
 ## Github Stats <br>
-[![Miras's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirasMustimov&count_private=true&show_icons=true&line_height=20&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Miras's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirasMustimov&count_private=true&show_icons=true&line_height=24&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
