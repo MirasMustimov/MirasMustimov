@@ -2,13 +2,12 @@
 
 
 - 👋 Hi, my name is Miras
-- 🌆 I am based in Almaty, Kazakhstan
-- 💼 Have 5 years of experience as a full stack developer
+- 🌆 I am a full-stack developer from Almaty, Kazakhstan
 - 🧡 Love building web apps using Laravel, Vue & TailwindCSS
-- 😃 Enjoy riding a bike, listening to music & being outdoors
+- 😃 And I enjoy riding a bike, listening to music and being outdoors
 
 
-## Teck Stack <br>
+## 💼 Teck Stack <br>
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
