@@ -1,10 +1,10 @@
 # <p align="center">Hi, I’m Miras!</p>
 
 
-- 👋 Hi, I am Miras!
+- 👋 Hi, my name is Miras
 - 🌆 Based in Almaty, Kazakhstan.
 - 💼 Have 5 years experience as a full stack developer.
-- 🔥 Love building web apps using Laravel, Vue & TailwindCSS.
+- 🧡 Love building web apps using Laravel, Vue & TailwindCSS.
 
 
 
