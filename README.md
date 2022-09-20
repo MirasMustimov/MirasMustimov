@@ -3,7 +3,7 @@
 
 - 👋 Hi, my name is Miras
 - 🌆 I am a full-stack developer from Almaty, Kazakhstan
-- 🧡 I love building web apps using Laravel, Vue & TailwindCSS
+- 🧡 I love building web apps using Laravel, Vue & Tailwind
 - 🌳 And I enjoy being outdoors, riding a bike and listening to music 
 
 
