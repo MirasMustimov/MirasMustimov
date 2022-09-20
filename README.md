@@ -3,7 +3,8 @@
 
 - 👋 Hi, I am Miras!
 - 🌆 I live in Almaty, Kazakhstan.
-- 💼 I have 5 years experience as a full stack developer and love building web apps using Laravel, VueJS & TailwindCSS.
+- 💼 I have 5 years experience as a full stack developer.
+- 🔥 Love building web apps using Laravel, VueJS & TailwindCSS.
 
 
 
