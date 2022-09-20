@@ -1,5 +1,6 @@
-# <h7 align="center">Hi, I’m MirasMustimov!</h7>
-
+<p align="center">
+# Hi, I’m MirasMustimov!
+</p>
 
 - 👀 I’m interested in Laravel, VueJs & UI Design
 
