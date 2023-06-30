@@ -19,14 +19,6 @@
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
-
-
-
-## 🎫 Github Stats <br>
-[![Miras's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirasMustimov&count_private=true&show_icons=true&line_height=24&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!---
 MirasMustimov/MirasMustimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
