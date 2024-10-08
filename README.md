@@ -1,13 +1,12 @@
 # <p align="center">Hi there, I’m Miras!</p>
 
 
-- 👋 Hi, my name is Miras
 - 🌆 I am a frontend developer from Almaty, Kazakhstan
 - 🧡 I love building web apps using Typescript, Vue & Tailwind
 - 🌳 And I enjoy being outdoors, riding a bike and listening to music 
 
 
-## 💼 Teck Stack <br>
+## 💼 Tech Stack <br>
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
